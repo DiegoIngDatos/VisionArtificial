@@ -24,6 +24,8 @@ Los datos se obtuvieron de un centro de imágenes que será MedMNIST v2 que es u
  Las métricas que se utilizo para este proyecto es la de MSE (o también llamada error cuadrático
  medio), esta es una métrica utilizada comúnmente en problemas de regresión para evaluar que tan
  bien se ajusta un modelo a los datos observados
+
+ 
 ![image](https://github.com/user-attachments/assets/56154559-e4cd-408a-97be-536fadbeefd0)
 
   Visualizacion de imagenes
@@ -46,4 +48,8 @@ Los datos se obtuvieron de un centro de imágenes que será MedMNIST v2 que es u
 ![image](https://github.com/user-attachments/assets/81fee2d0-ce82-476f-8132-86c056af8df5)
 
  
+Comparacion de modelos por accuracy
+
+
+![image](https://github.com/user-attachments/assets/8ed6aac7-c5cb-4780-ae71-d062487e58c7)
 
