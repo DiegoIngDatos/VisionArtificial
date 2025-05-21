@@ -19,3 +19,7 @@ Los datos se obtuvieron de un centro de imágenes que será MedMNIST v2 que es u
  Los resultados a los que se llegaron fueron que el modelo propuesto tuvo tuvo un accuracy de 0.742, lo que indica que fue capaz de predecir correctamente el
  74.2% de las muestras de prueba. Esto significa que el modelo tiene un rendimiento moderado en
  términos de precisión, si embargo existen estrategias de mejora que se le pueden ser aplicadas. 
+
+![image](https://github.com/user-attachments/assets/2d9a9eb1-6a63-49a6-bc31-8c8d681feba8)
+
+ 
