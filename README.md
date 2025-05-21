@@ -26,13 +26,24 @@ Los datos se obtuvieron de un centro de imágenes que será MedMNIST v2 que es u
  bien se ajusta un modelo a los datos observados
 ![image](https://github.com/user-attachments/assets/56154559-e4cd-408a-97be-536fadbeefd0)
 
-Visualizacion de imagenes
+  Visualizacion de imagenes
 
 ![image](https://github.com/user-attachments/assets/2abb9b02-b645-4eb3-a178-73cfd4d12f3a)
 
-Demostracion de los valores de los pixeles
+  Demostracion de los valores de los pixeles
 
  ![image](https://github.com/user-attachments/assets/9d1cd1a9-00d5-47ba-a4b3-38e7db4632f5)
+
+
+  Funcion de perdida del modelo propuesto
+
+![image](https://github.com/user-attachments/assets/fed8db3c-6875-44ee-8959-57580b2152e5)
+
+
+  Accuracy de modelo propuesto
+
+  
+![image](https://github.com/user-attachments/assets/81fee2d0-ce82-476f-8132-86c056af8df5)
 
  
 
